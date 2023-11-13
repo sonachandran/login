@@ -1,0 +1,48 @@
+.box{
+    position:relative;
+    left: 485px;
+    top: 138px;
+    height: 400px;
+    width: 300px;
+    border: 2px solid ;
+    z-index: 1;
+    
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    border-radius: 6px;
+    background-image:linear-gradient( to bottom right,rgb(6, 6, 66),rgb(40, 38, 53), rgb(62, 20, 62), rgb(6, 6, 66),  rgb(6, 6, 66),rgb(40, 38, 53), rgb(62, 20, 62),rgb(40, 38, 53));
+    
+}
+
+
+.login{
+    color: white;
+    position:absolute;
+    left: 20%;
+    top: 10%;
+    
+    
+
+}
+
+.size{
+    width: 100%;
+    height: 20px;
+
+}
+
+.text{
+    color: black;
+    font-size: small;
+    color: white;
+
+}
+.flex{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+    
+
